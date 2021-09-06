@@ -9,3 +9,7 @@ Once you've gotten the api key, you need to create a config file (config.js) wit
     }
 
 Where the value of API_KEY is the key you have obtained from the website mentioned before.
+
+Here you can see an example of the app:
+
+![WeatherApp Example](/example.jpg)
